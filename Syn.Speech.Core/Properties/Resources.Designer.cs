@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Syn.Speech.Properties {
+namespace Syn.Speech.Core.Properties {
     using System;
     
     
@@ -75,8 +75,7 @@ namespace Syn.Speech.Properties {
         ///  &lt;property name=&quot;wordInsertionProbability&quot; value=&quot;0.1&quot;/&gt;
         ///  &lt;property name=&quot;silenceInsertionProbability&quot; value=&quot;0.1&quot;/&gt;
         ///  &lt;property name=&quot;fillerInsertionProbability&quot; value=&quot;1e-2&quot;/&gt;
-        ///
-        /// [rest of string was truncated]&quot;;.
+        ///        /// [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string default_config {
             get {

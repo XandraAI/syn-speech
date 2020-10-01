@@ -5,7 +5,7 @@ using Syn.Speech.FrontEnds.FrequencyWarp;
 using Syn.Speech.FrontEnds.Util;
 using Syn.Speech.Helper;
 using Syn.Speech.Linguist.Acoustic.Tiedstate;
-using Syn.Speech.Properties;
+using Syn.Speech.Core.Properties;
 using Syn.Speech.Util;
 using Syn.Speech.Util.Props;
 //PATROLLED + REFACTORED

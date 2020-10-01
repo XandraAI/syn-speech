@@ -6,7 +6,7 @@ using Syn.Speech.FrontEnds.Util;
 using Syn.Speech.Helper;
 using Syn.Speech.Helper.Mathematics.Linear;
 using Syn.Speech.Helper.Mathematics.Stat.Correlation;
-using Syn.Speech.Properties;
+using Syn.Speech.Core.Properties;
 using Syn.Speech.Util.Props;
 //REFACTORED
  namespace Syn.Speech.SpeakerId

@@ -101,7 +101,7 @@ namespace Syn.Speech.Helper
 
         public static string GetSystemProperty(string name, string defaultValue)
         {
-            var resourceValue = Properties.Resources.ResourceManager.GetString(name);
+            var resourceValue = Core.Properties.Resources.ResourceManager.GetString(name);
             if (string.IsNullOrEmpty(resourceValue))
             {
                 return defaultValue;
